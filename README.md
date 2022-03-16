@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidmatyas
 - 👀 I’m interested in climbing 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA in https://www.greenfoxacademy.cz/
 - 💞️ I’m looking to collaborate on beginners projects
 - 📫 How to reach me david.matyas.cz@gmail.com 
 
