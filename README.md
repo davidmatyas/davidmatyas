@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidmatyas <a href="https://www.codewars.com/users/davidmatyas"><img src="https://www.codewars.com/users/davidmatyas/badges/micro"></a>
-- 🌱 I’m absolvent of https://www.greenfoxacademy.cz/  with skill in JAVE SE, Spring Boot, Hibernate, Spring Data JPA, REST API, HTML, CSS and Thymeleaf. I feel **Junior Java Developer**.
+- 🌱 I’m absolvent of https://www.greenfoxacademy.cz/  with skill in JAVE SE, Spring Boot, Hibernate, Spring Data JPA, REST API, HTML, CSS and Thymeleaf. I feel like **Junior Java Developer**.
 - 👀 I’m interested in climbing 
 - 💞️ I’m looking to collaborate on job
 - 📫 How to reach me david.matyas.cz@gmail.com 
